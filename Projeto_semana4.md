@@ -2,7 +2,6 @@
 ---
 <img width="517" height="591" alt="image" src="https://github.com/user-attachments/assets/3b5bc64e-16a2-4c88-9c57-a43274c7f1d3" />
 ---
----
 # Atividade - Formas Padrão e Seleção (SOP / op_select)
 
 Entradas: OP2, OP1, OP0
